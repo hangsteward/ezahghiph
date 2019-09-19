@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohgikoomeo.hovmoller.se/sitemap.xml
